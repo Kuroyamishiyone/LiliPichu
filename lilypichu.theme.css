@@ -6,7 +6,7 @@
 * @version 1.4
 * @donate https://ko-fi.com/nyria
 */
-@import url("https://raw.githubusercontent.com/Kuroyamishiyone/dis/main/lilypichu.theme.css");
+@import url("https://nyri4.github.io/LilyPichu/main.css");
 
 /* Remove decorations */
 @import url("https://nyri4.github.io/LilyPichu/stuff/overlay.css");
@@ -17,9 +17,9 @@
   /* Jumping GIF */
   --jumping-gif: url("https://i.imgur.com/iqXbM1B.gif");
 
-  /* Background (if you want an image replace it by : 
+  Background
 
---background-tertiary-alt: url("image-link"); without that => */
+  --background-tertiary-alt: url("https://i.imgur.com/rnN5seJ.jpg");
   --background-tertiary-alt: #ffc7d4;
 
   /* Border-radius for the whole theme */
