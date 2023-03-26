@@ -1574,7 +1574,7 @@
     transform: none;
   }
   .container-1eFtFS::after {
-    content: "命亦吴匣\A格贵潭中\A为亦斩三\A剑险龙尺\A   子水\AKill more and more of those monsters and make me human. You're only my fodder, after all!\AGive me all your life. I'm going to become a human. So I can meet my darling from back then.\AZero Two\ACode 002\A9'ι Nain Iota\AFranxxStrelizia";
+    content: "命亦吴匣\A格贵潭中\A为亦斩三\A剑险龙尺\A   子水\AKill more and more of those monsters and make me human\AYou're only my fodder, after all!\AGive me all your life\AI'm going to become a human\ASo I can meet my darling from back then\AZero Two\ACode 002\A9'ι Nain Iota\AFranxxStrelizia";
     white-space: pre;:
     position: fixed;
     top: 220px;
@@ -1587,7 +1587,7 @@
     display: flex;
     align-items: right;
     justify-content: center;
-    font-size: 30px;
+    font-size: 20px;
     color: var(--text-normal);
     border-radius: var(--border-radius);
     overflow: hidden;
