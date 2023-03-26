@@ -1575,6 +1575,7 @@
   }
   .container-1eFtFS::after {
     content: "命亦吴匣 \A 格贵潭中 \A 为亦斩三 \A 剑险龙尺 \A   子水 \A Kill more and more of those monsters\A and make me human \A You're only my fodder, after all! \A Give me all your life\AI'm going to become a human\ASo I can meet my darling from back then\AZero Two\A Code 002\A 9'ι Nain Iota\A Franxx: Strelizia";
+    white-space: pre;
     position: fixed;
     top: 220px;
     bottom: 85px;
