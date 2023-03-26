@@ -1575,6 +1575,7 @@
   }
   .container-1eFtFS::after {
     content: "匣中三尺水\A吴潭斩龙子\A亦贵亦险\A命格为剑";
+    white-space: pre;
     position: fixed;
     top: 220px;
     bottom: 85px;
